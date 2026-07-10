@@ -21,11 +21,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.134.3"
+          hugo-version: '0.134.3'
           extended: true
 
       - name: Build website
-        run: hugo --minify --baseURL "https://pepsi1231173.github.io/AWS_WORKFLOG-/"
+        run: hugo --minify --baseURL "https://letran237123-a11y.github.io/BaoCaoDoAnGameRoughLife/"
 
       - name: Fix absolute image paths for GitHub Pages
         run: |
