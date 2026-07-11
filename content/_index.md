@@ -7,8 +7,6 @@ chapter: false
 
 # Internship Report
 
-I completed my work in approximately 3 months, from April 17, 2026 to July 11, 2026, with the following weekly content:
-
 ### Student Information:
 
 &emsp; **Full Name:** Trần Hữu Lễ

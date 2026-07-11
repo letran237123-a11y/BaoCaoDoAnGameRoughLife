@@ -7,8 +7,6 @@ chapter: false
 
 # Báo cáo thực tập
 
-Tôi đã thực hiện xong công việc của mình trog khoảng 3 tháng từ ngày 17 tháng 4 2026 đến 11 tháng 7 2026 với nội dung hàng tuần như sau:
-
 ### Thông tin sinh viên:
 
 &emsp; **Họ và tên:** Trần Hữu Lễ
