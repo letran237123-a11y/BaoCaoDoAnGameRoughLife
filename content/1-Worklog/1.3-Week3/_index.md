@@ -8,8 +8,9 @@ pre: ' <b> 1.3. </b> '
 
 ### Week 3 Objectives:
 
-- Connect and get acquainted with members of First Cloud Journey.
-- Understand basic AWS services, how to use the console & CLI.
+- Learn AWS networking concepts, including VPC, Subnets, Route Tables, Internet Gateway, and Security Groups.
+- Understand Amazon RDS and Amazon EC2 fundamentals.
+- Practice deploying and managing AWS infrastructure by creating VPC, EC2, and RDS resources.
 
 ### Tasks to be carried out this week:
 

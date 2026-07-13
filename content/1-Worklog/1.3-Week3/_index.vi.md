@@ -8,8 +8,9 @@ pre: ' <b> 1.3. </b> '
 
 ### Mục tiêu tuần 3:
 
-- Kết nối, làm quen với các thành viên trong First Cloud Journey.
-- Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+- Tìm hiểu các khái niệm về mạng AWS, bao gồm VPC, Subnet, Bảng định tuyến, Cổng Internet và Nhóm bảo mật.
+- Hiểu các nguyên tắc cơ bản về Amazon RDS và Amazon EC2.
+- Thực hành triển khai và quản lý cơ sở hạ tầng AWS bằng cách tạo các tài nguyên VPC, EC2 và RDS.
 
 ### Các công việc cần triển khai trong tuần này:
 
