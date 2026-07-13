@@ -30,4 +30,4 @@ pre: '<b>1.1.</b>'
 - Key learnings:
 - Challenges:
 - Improvements for next week:
-  ![overview](/images/1-Worklog/1.png)
+  ![overview](/images/1-Worklog/Lab1/1.png)
