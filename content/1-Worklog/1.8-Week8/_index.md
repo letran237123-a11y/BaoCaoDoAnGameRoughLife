@@ -6,8 +6,6 @@ chapter: false
 pre: ' <b> 1.8. </b> '
 ---
 
-
-
 ### Week 8 Objectives:
 
 - Lab 11
@@ -37,6 +35,15 @@ pre: ' <b> 1.8. </b> '
 - Create a VPC using CLI.
 - Learn how to successfully create and manage an Internet Gateway in AWS.
 - Create a Security group for EC2.
+  ![overview](/images/1-Worklog/Lab11/2.png)
+  ![overview](/images/1-Worklog/Lab11/3.png)
+  ![overview](/images/1-Worklog/Lab11/4.png)
+  ![overview](/images/1-Worklog/Lab11/5.png)
+  ![overview](/images/1-Worklog/Lab11/6.png)
+  ![overview](/images/1-Worklog/Lab11/7.png)
+  ![overview](/images/1-Worklog/Lab11/8.1.png)
+  ![overview](/images/1-Worklog/Lab11/8.2.png)
+  ![overview](/images/1-Worklog/Lab11/9.png)
 
 ### Lab 13:
 
@@ -45,6 +52,11 @@ pre: ' <b> 1.8. </b> '
 - Creating backups using AWS Backup for full management allows you to automatically back up data from various data sources such as EC2, EBS,...
 - Set up notifications on the cloud platform.
 - Use AWS Lambda to automatically check all created backups for successful restoration and clean up resources.
+  ![overview](/images/1-Worklog/Lab13/2.1.png)
+  ![overview](/images/1-Worklog/Lab13/2.2.png)
+  ![overview](/images/1-Worklog/Lab13/3.png)
+  ![overview](/images/1-Worklog/Lab13/4.png)
+  ![overview](/images/1-Worklog/Lab13/5.png)
 
 ### Lab 28:
 
@@ -60,3 +72,12 @@ pre: ' <b> 1.8. </b> '
 - Create EC2 instance when there are no and qualified Tags
 - Edit Resource Tag on EC2 Instance
 - Policy Check
+  ![overview](/images/1-Worklog/Lab28/2.1.png)
+  ![overview](/images/1-Worklog/Lab28/3.png)
+  ![overview](/images/1-Worklog/Lab28/4.png)
+  ![overview](/images/1-Worklog/Lab28/5.1.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.1.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.2.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.3.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.4.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.5.png)

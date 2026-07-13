@@ -66,8 +66,18 @@ Chạy lệnh sau và nhập các thông tin xác thực AWS được yêu cầu
 ```bash
 aws configure
 ```
+
 ````
 
 ```
 
 ```
+![overview](/images/1-Worklog/Lab2/2.1.png)
+![overview](/images/1-Worklog/Lab2/2.2.png)
+![overview](/images/1-Worklog/Lab2/3.1.png)
+![overview](/images/1-Worklog/Lab2/3.2.png)
+![overview](/images/1-Worklog/Lab2/4.1.png)
+![overview](/images/1-Worklog/Lab2/4.2.png)
+
+![overview](/images/1-Worklog/Lab2/4.3.png)
+````

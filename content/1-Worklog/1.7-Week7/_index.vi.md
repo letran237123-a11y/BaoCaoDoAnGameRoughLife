@@ -33,3 +33,4 @@ pre: ' <b> 1.7. </b> '
 - Thiết kế giao diện menu chính của trò chơi và sắp xếp các thành phần UI, bao gồm hình nền và màn hình cài đặt.
 - Liên kết các nút trên menu với các chức năng tương ứng như **Play** (Bắt đầu trò chơi) và **Quit** (Thoát trò chơi).
 - Thêm ô nhập văn bản để người chơi nhập và tùy chỉnh tên nhân vật.
+  ![overview](/images/1-Worklog/Lab9/1.png)

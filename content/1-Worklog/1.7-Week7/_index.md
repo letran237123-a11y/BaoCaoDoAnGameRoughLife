@@ -35,3 +35,4 @@ pre: ' <b> 1.7. </b> '
 - Created the game menu layout and arranged UI components, including the background and settings screen.
 - Linked menu buttons to their corresponding functions, such as starting or quitting the game.
 - Added a text input field for players to enter and customize their character names.
+![overview](/images/1-Worklog/Lab9/1.png)

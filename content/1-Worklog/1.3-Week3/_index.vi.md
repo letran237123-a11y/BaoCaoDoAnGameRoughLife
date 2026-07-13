@@ -72,3 +72,22 @@ df -h
 - Tìm hiểu quản trị Linux Server và các thao tác MySQL
 - Tìm hiểu giám sát EC2 và quản lý tài nguyên AWS
 - Cải thiện kỹ năng triển khai hạ tầng Cloud thực tế
+
+![overview](/images/1-Worklog/Lab3/3.1.png)
+![overview](/images/1-Worklog/Lab3/3.2.png)
+![overview](/images/1-Worklog/Lab3/3.3.png)
+![overview](/images/1-Worklog/Lab3/3.4.png)
+![overview](/images/1-Worklog/Lab3/3.5.png)
+![overview](/images/1-Worklog/Lab3/3.6.png)
+![overview](/images/1-Worklog/Lab3/4.1.png)
+![overview](/images/1-Worklog/Lab3/4.2.png)
+![overview](/images/1-Worklog/Lab3/4.3.png)
+![overview](/images/1-Worklog/Lab3/4.4.png)
+![overview](/images/1-Worklog/Lab3/4.5.png)
+![overview](/images/1-Worklog/Lab3/4.6.png)
+![overview](/images/1-Worklog/Lab3/4.7.png)
+![overview](/images/1-Worklog/Lab3/5.1.1.png)
+![overview](/images/1-Worklog/Lab3/5.1.2.png)
+![overview](/images/1-Worklog/Lab3/5.2.1.png)
+![overview](/images/1-Worklog/Lab3/5.2.2.png)
+![overview](/images/1-Worklog/Lab3/5.2.3.png)

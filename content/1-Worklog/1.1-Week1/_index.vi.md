@@ -30,3 +30,4 @@ pre: '<b>1.1.</b>'
 - Kiến thức đạt được:
 - Khó khăn:
 - Hướng cải thiện:
+![overview](/images/1-Worklog/Lab1/1.png)

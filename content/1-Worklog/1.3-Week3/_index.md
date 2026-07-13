@@ -21,7 +21,6 @@ pre: ' <b> 1.3. </b> '
 | 5   | - Learn Amazon EC2 fundamentals <br> &emsp; + Amazon EC2 architecture <br> &emsp; + Instance Types (Compute, Memory, Storage, Network Performance) <br> &emsp; + Amazon Machine Images (AMI) <br> &emsp; + Amazon EBS Volumes <br> &emsp; + Instance Store Volumes <br> &emsp; + Security Groups <br> &emsp; + Key Pairs <br> &emsp; + IAM Roles <br> &emsp; + Elastic IP Address | 07/05/2026 | 07/05/2026      | Done   |
 | 6   | - **Practice:** <br> &emsp; + Launch an Amazon EC2 Instance <br> &emsp; + Configure Security Group Rules <br> &emsp; + Create and use Key Pair for SSH access <br> &emsp; + Connect to EC2 using SSH <br> &emsp; + Attach and mount Amazon EBS Volume <br> &emsp; + Monitor EC2 using Amazon CloudWatch <br> &emsp; + Create Tags for EC2 resource management                     | 08/05/2026 | 08/05/2026      | Done   |
 
-
 ### Week 3 Achievements
 
 ### Step 1: Learn AWS Networking and RDS Fundamentals
@@ -73,3 +72,22 @@ df -h
 - Learned Linux server administration and MySQL operations
 - Learned EC2 monitoring and AWS resource management
 - Improved practical AWS cloud deployment skills
+
+![overview](/images/1-Worklog/Lab3/3.1.png)
+![overview](/images/1-Worklog/Lab3/3.2.png)
+![overview](/images/1-Worklog/Lab3/3.3.png)
+![overview](/images/1-Worklog/Lab3/3.4.png)
+![overview](/images/1-Worklog/Lab3/3.5.png)
+![overview](/images/1-Worklog/Lab3/3.6.png)
+![overview](/images/1-Worklog/Lab3/4.1.png)
+![overview](/images/1-Worklog/Lab3/4.2.png)
+![overview](/images/1-Worklog/Lab3/4.3.png)
+![overview](/images/1-Worklog/Lab3/4.4.png)
+![overview](/images/1-Worklog/Lab3/4.5.png)
+![overview](/images/1-Worklog/Lab3/4.6.png)
+![overview](/images/1-Worklog/Lab3/4.7.png)
+![overview](/images/1-Worklog/Lab3/5.1.1.png)
+![overview](/images/1-Worklog/Lab3/5.1.2.png)
+![overview](/images/1-Worklog/Lab3/5.2.1.png)
+![overview](/images/1-Worklog/Lab3/5.2.2.png)
+![overview](/images/1-Worklog/Lab3/5.2.3.png)

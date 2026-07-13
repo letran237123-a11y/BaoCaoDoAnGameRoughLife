@@ -6,7 +6,6 @@ chapter: false
 pre: ' <b> 1.4. </b> '
 ---
 
-
 ### Week 4 Objectives:
 
 - Create budget.
@@ -38,8 +37,6 @@ pre: ' <b> 1.4. </b> '
 * Select **Customize**
 * Under **Budget types**, select **Cost budget**
 
-
-
 ## Step 3: Create RI Budget
 
 - Similar to step 2
@@ -48,8 +45,6 @@ pre: ' <b> 1.4. </b> '
 * Select **Customize**
 * Select **Reservation budget**
 
-
-
 ## Step 4: Create Savings Plans Budget
 
 - Similar to step 2
@@ -57,8 +52,6 @@ pre: ' <b> 1.4. </b> '
 
 * Select **Customize**
 * Under **Budget types**, select **Savings Plans budget**
-
-
 
 ## Step 5: CloudWatch Metrics + CloudWatch Logs + CloudWatch Alarms + CloudWatch Dashboards
 
@@ -241,3 +234,18 @@ The dashboard provided a centralized view of monitoring metrics and alarms.
 ## Conclusion
 
 I learned how to use Amazon CloudWatch to monitor AWS resources, analyze logs, create alarms, and build dashboards. The lab provided practical experience with metrics visualization, log analysis, and automated monitoring in AWS.
+![overview](/images/1-Worklog/Lab7/1.png)
+![overview](/images/1-Worklog/Lab7/2.png)
+![overview](/images/1-Worklog/Lab7/3.png)
+![overview](/images/1-Worklog/Lab7/4.png)
+![overview](/images/1-Worklog/Lab7/5.png)
+![overview](/images/1-Worklog/Lab8/2.png)
+![overview](/images/1-Worklog/Lab8/3.1.png)
+![overview](/images/1-Worklog/Lab8/3.2.png)
+![overview](/images/1-Worklog/Lab8/3.3.png)
+![overview](/images/1-Worklog/Lab8/3.4.png)
+![overview](/images/1-Worklog/Lab8/4.1.png)
+![overview](/images/1-Worklog/Lab8/4.2.png)
+![overview](/images/1-Worklog/Lab8/4.3.png)
+![overview](/images/1-Worklog/Lab8/5.png)
+![overview](/images/1-Worklog/Lab8/6.png)

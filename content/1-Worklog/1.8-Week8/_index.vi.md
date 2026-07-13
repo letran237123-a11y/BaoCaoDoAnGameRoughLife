@@ -6,7 +6,6 @@ chapter: false
 pre: ' <b> 1.8. </b> '
 ---
 
-
 ### Mục tiêu tuần 8:
 
 - Lab 11
@@ -36,6 +35,15 @@ pre: ' <b> 1.8. </b> '
 - Tạo VPC bằng CLI.
 - Học cách tạo và quản lý Internet Gateway trên AWS.
 - Tạo Security Group cho EC2.
+  ![overview](/images/1-Worklog/Lab11/2.png)
+  ![overview](/images/1-Worklog/Lab11/3.png)
+  ![overview](/images/1-Worklog/Lab11/4.png)
+  ![overview](/images/1-Worklog/Lab11/5.png)
+  ![overview](/images/1-Worklog/Lab11/6.png)
+  ![overview](/images/1-Worklog/Lab11/7.png)
+  ![overview](/images/1-Worklog/Lab11/8.1.png)
+  ![overview](/images/1-Worklog/Lab11/8.2.png)
+  ![overview](/images/1-Worklog/Lab11/9.png)
 
 ### Lab 13:
 
@@ -44,6 +52,11 @@ pre: ' <b> 1.8. </b> '
 - Thực hiện sao lưu bằng AWS Backup với chế độ quản lý toàn diện, cho phép tự động sao lưu dữ liệu từ nhiều nguồn như EC2, EBS,...
 - Thiết lập thông báo trên nền tảng đám mây.
 - Sử dụng AWS Lambda để tự động kiểm tra khả năng khôi phục thành công của các bản sao lưu và dọn dẹp tài nguyên.
+  ![overview](/images/1-Worklog/Lab13/2.1.png)
+  ![overview](/images/1-Worklog/Lab13/2.2.png)
+  ![overview](/images/1-Worklog/Lab13/3.png)
+  ![overview](/images/1-Worklog/Lab13/4.png)
+  ![overview](/images/1-Worklog/Lab13/5.png)
 
 ### Lab 28:
 
@@ -59,3 +72,12 @@ pre: ' <b> 1.8. </b> '
 - Tạo EC2 Instance khi không có hoặc có Tag hợp lệ.
 - Chỉnh sửa Resource Tag trên EC2 Instance.
 - Kiểm tra và xác thực Policy.
+  ![overview](/images/1-Worklog/Lab28/2.1.png)
+  ![overview](/images/1-Worklog/Lab28/3.png)
+  ![overview](/images/1-Worklog/Lab28/4.png)
+  ![overview](/images/1-Worklog/Lab28/5.1.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.1.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.2.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.3.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.4.png)
+  ![overview](/images/1-Worklog/Lab28/5.2.5.png)

@@ -21,9 +21,9 @@ Lab 4: Triển khai ứng dụng trên EC2 (Linux & Windows)
 
 ### Các công việc cần triển khai trong tuần này:
 
-| Thứ | Công việc                                                                                                                                                                                         | Ngày bắt đầu | Ngày hoàn thành | Trạng thái                          |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Cài đặt Node.js trên Amazon Linux 2023 bằng NVM - Cài đặt Git và clone mã nguồn ứng dụng - Cấu hình biến môi trường và triển khai ứng dụng trên EC2 Linux                                       | 25/05/2026   | 25/06/2026      |Hoàn thành|
+| Thứ | Công việc                                                                                                                                                                                         | Ngày bắt đầu | Ngày hoàn thành | Trạng thái |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ---------- |
+| 2   | - Cài đặt Node.js trên Amazon Linux 2023 bằng NVM - Cài đặt Git và clone mã nguồn ứng dụng - Cấu hình biến môi trường và triển khai ứng dụng trên EC2 Linux                                       | 25/05/2026   | 25/06/2026      | Hoàn thành |
 | 3   | - Cài đặt XAMPP trên Windows Server - Tạo cơ sở dữ liệu MySQL và bảng dữ liệu bằng phpMyAdmin - Triển khai và kiểm thử ứng dụng Node.js trên Windows Instance                                     | 26/05/2026   | 26/05/2026      | Hoàn thành |
 | 4   | - Tìm hiểu cơ chế kiểm soát truy cập theo Region của IAM - Tạo chính sách RegionRestrict - Cấu hình IAM Group và IAM User - Kiểm tra quyền truy cập EC2 ở các AWS Region khác nhau                | 27/05/2026   | 27/05/2026      | Hoàn thành |
 | 5   | - Tìm hiểu cơ chế giới hạn EC2 Instance Family - Tạo chính sách EC2_FamilyRestrict - Cấu hình và kiểm tra các Instance Family được phép và bị từ chối - Triển khai giới hạn theo Instance Type    | 28/05/2026   | 28/05/2026      | Hoàn thành |
@@ -57,3 +57,34 @@ Lab 4: Triển khai ứng dụng trên EC2 (Linux & Windows)
 
 * Phát triển kỹ năng quản lý tài nguyên EC2 và triển khai các cơ chế quản trị thông qua IAM Policy.
 * Nâng cao kiến thức về triển khai hạ tầng đám mây, quản trị hệ thống và quản lý bảo mật trên nền tảng AWS.
+  ![overview](/images/1-Worklog/Lab4/2.1.png)
+  ![overview](/images/1-Worklog/Lab4/2.2.png)
+  ![overview](/images/1-Worklog/Lab4/2.3.png)
+  ![overview](/images/1-Worklog/Lab4/2.4.png)
+  ![overview](/images/1-Worklog/Lab4/3.1.png)
+  ![overview](/images/1-Worklog/Lab4/3.2.png)
+  ![overview](/images/1-Worklog/Lab4/4.1.png)
+  ![overview](/images/1-Worklog/Lab4/4.2.png)
+  ![overview](/images/1-Worklog/Lab4/5.1.png)
+  ![overview](/images/1-Worklog/Lab4/5.2.png)
+  ![overview](/images/1-Worklog/Lab4/5.3.png)
+  ![overview](/images/1-Worklog/Lab4/5.4.png)
+  ![overview](/images/1-Worklog/Lab4/5.5.png)
+  ![overview](/images/1-Worklog/Lab4/5.6.png)
+  ![overview](/images/1-Worklog/Lab4/5.7.png)
+  ![overview](/images/1-Worklog/Lab4/5.8.png)
+  ![overview](/images/1-Worklog/Lab4/6.1.1.png)
+  ![overview](/images/1-Worklog/Lab4/6.1.2.png)
+  ![overview](/images/1-Worklog/Lab4/6.1.3.png)
+  ![overview](/images/1-Worklog/Lab4/6.1.4.png)
+  ![overview](/images/1-Worklog/Lab4/6.2.png)
+  ![overview](/images/1-Worklog/Lab4/6.3.png)
+  ![overview](/images/1-Worklog/Lab4/7.1.png)
+  ![overview](/images/1-Worklog/Lab4/7.2.png)
+  ![overview](/images/1-Worklog/Lab4/7.3.png)
+  ![overview](/images/1-Worklog/Lab4/8.1.png)
+  ![overview](/images/1-Worklog/Lab4/8.2.png)
+  ![overview](/images/1-Worklog/Lab4/8.3.png)
+  ![overview](/images/1-Worklog/Lab4/8.4.png)
+  ![overview](/images/1-Worklog/Lab4/8.5.png)
+  ![overview](/images/1-Worklog/Lab4/8.6.png)

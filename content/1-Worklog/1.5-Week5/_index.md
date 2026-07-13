@@ -6,8 +6,6 @@ chapter: false
 pre: ' <b> 1.5. </b> '
 ---
 
-
-
 ### Week 5 Objectives:
 
 - Deploying Scalable
@@ -92,3 +90,24 @@ pre: ' <b> 1.5. </b> '
 - Gained practical experience with production-like AWS infrastructure
   ![alt text](image.png)
   ![alt text](image-1.png)
+
+![overview](/images/1-Worklog/Lab5/2.1.png)
+![overview](/images/1-Worklog/Lab5/2.2.png)
+![overview](/images/1-Worklog/Lab5/2.3.png)
+![overview](/images/1-Worklog/Lab5/2.4.png)
+![overview](/images/1-Worklog/Lab5/3.png)
+![overview](/images/1-Worklog/Lab5/4.png)
+![overview](/images/1-Worklog/Lab6/2.1.png)
+![overview](/images/1-Worklog/Lab6/2.2.png)
+![overview](/images/1-Worklog/Lab6/2.3.png)
+![overview](/images/1-Worklog/Lab6/2.4.png)
+![overview](/images/1-Worklog/Lab6/2.5.png)
+![overview](/images/1-Worklog/Lab6/2.6.png)
+![overview](/images/1-Worklog/Lab6/3.png)
+![overview](/images/1-Worklog/Lab6/4.1.png)
+![overview](/images/1-Worklog/Lab6/4.2.png)
+![overview](/images/1-Worklog/Lab6/5.png)
+![overview](/images/1-Worklog/Lab6/6.png)
+![overview](/images/1-Worklog/Lab6/7.1.png)
+![overview](/images/1-Worklog/Lab6/7.2.png)
+![overview](/images/1-Worklog/Lab6/7.3.png)
