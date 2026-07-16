@@ -86,8 +86,7 @@ pre: ' <b> 1.5. </b> '
 - Kiểm tra được cơ chế tự động scale hệ thống
 - Hiểu mô hình hệ thống cloud có tính sẵn sàng cao (High Availability)
 - Nâng cao kỹ năng triển khai hạ tầng AWS thực tế
-  ![alt text](image-2.png)
-  ![alt text](image-3.png)
+
   ![overview](/images/1-Worklog/Lab5/2.1.png)
   ![overview](/images/1-Worklog/Lab5/2.2.png)
   ![overview](/images/1-Worklog/Lab5/2.3.png)

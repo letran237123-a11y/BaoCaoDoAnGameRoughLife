@@ -99,5 +99,5 @@ The workshop included presentations from experienced members of the AWS Study Gr
 - Build more practical projects to strengthen technical skills.
 - Apply the BMAD methodology in future projects.
 - Continue participating in AWS Study Group activities.
-  ![overview](/images/4-Event/event1.jpg)
+  ![overview](/images/4-Event/Event9.5.jpg)
   ![overview](/images/4-Event/Event1.png)

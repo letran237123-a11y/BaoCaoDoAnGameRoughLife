@@ -99,5 +99,5 @@ Workshop có sự tham gia chia sẻ của các thành viên giàu kinh nghiệm
 - Xây dựng thêm nhiều dự án thực tế để nâng cao kỹ năng chuyên môn.
 - Áp dụng phương pháp BMAD vào các dự án trong tương lai.
 - Tiếp tục tham gia các hoạt động của cộng đồng AWS Study Group.
-  ![overview](/images/4-Event/event1.jpg)
+  ![overview](/images/4-Event/Event9.5.jpg)
   ![overview](/images/4-Event/Event1.png)
