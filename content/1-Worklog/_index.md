@@ -6,7 +6,7 @@ chapter: false
 pre: ' <b> 1. </b> '
 ---
 
-I completed my work in approximately 3 months, from April 17, 2026 to July 11, 2026, with the following weekly content:
+I completed my work in approximately 3 months, from April 17, 2026 to July 10, 2026, with the following weekly content:
 
 **Week 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
 

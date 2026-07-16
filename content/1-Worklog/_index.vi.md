@@ -6,7 +6,7 @@ chapter: false
 pre: ' <b> 1. </b> '
 ---
 
-Tôi đã thực hiện xong công việc của mình trog khoảng 3 tháng từ ngày 17 tháng 4 2026 đến 11 tháng 7 2026 với nội dung hàng tuần như sau:
+Tôi đã thực hiện xong công việc của mình trog khoảng 3 tháng từ ngày 17 tháng 4 2026 đến 10 tháng 7 2026 với nội dung hàng tuần như sau:
 
 **Tuần 1:** [Làm quen với AWS và các dịch vụ AWS cơ bản](1.1-week1/)
 **Tuần 2:** [Làm quen với Unity và Lab 2 (AWS IAM)](1.2-week2/)
