@@ -19,6 +19,8 @@ pre: ' <b> 5.1. </b> '
 
 #### Tổng quan về dự án game Rough Life
 
+- Link demo game: https://drive.google.com/file/d/1JuW5662_Hs_NfhDf037MAqUaIq6pE8v7/view?usp=sharing
+
 **1 Menu**
 Menu có các nút chức năng cơ bản gồm: Online, Offline, Setting và Exit. Người chơi có thể chọn Offline để bắt đầu chơi một mình, chọn Online để tham gia chế độ nhiều người chơi, vào Setting để điều chỉnh âm thanh hoặc chọn Exit để thoát game.
 
