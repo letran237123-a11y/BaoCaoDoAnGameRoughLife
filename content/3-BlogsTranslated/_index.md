@@ -6,9 +6,7 @@ chapter: false
 pre: ' <b> 3. </b> '
 ---
 
-{{% notice warning %}}
-**Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 This section lists the three AWS Study Group posts translated for the internship report. The selected posts focus on Amazon GameLift, FlexMatch, game session operations, and server-side architecture for online multiplayer games.
 

@@ -15,7 +15,8 @@ pre: ' <b> 5.1. </b> '
 
 ### Overview of the Rough Life Game Project
 
-**1. Menu**
+- Link demo game: https://drive.google.com/file/d/1JuW5662_Hs_NfhDf037MAqUaIq6pE8v7/view?usp=sharing
+  **1. Menu**
 
 The menu includes basic function buttons such as Online, Offline, Setting, and Exit. Players can choose Offline to play alone, choose Online to join multiplayer mode, open Setting to adjust the audio, or select Exit to quit the game.
 ![overview](/images/5-Workshop/5.1-Workshop-overview/Menu.png)

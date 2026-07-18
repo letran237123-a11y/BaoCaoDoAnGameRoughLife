@@ -6,9 +6,6 @@ chapter: false
 pre: ' <b> 3.1. </b> '
 ---
 
-{{% notice warning %}}
-**Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 # Building matchmaking with Amazon GameLift FlexMatch and serverless services
 

@@ -8,6 +8,7 @@ pre: ' <b> 5.1. </b> '
 
 #### Giới thiệu về dự án game Rough Life
 
+- Link demo game: https://drive.google.com/file/d/1JuW5662_Hs_NfhDf037MAqUaIq6pE8v7/view?usp=sharing
 - Rough Life là một dự án game 2D top-down thuộc thể loại hành động phiêu lưu, tập trung vào cơ chế chiến đấu với quái và boss trong nhiều khu vực khác nhau. Game được xây dựng bằng Unity, sử dụng ngôn ngữ C# và phát triển theo hướng hỗ trợ cả chế độ chơi offline lẫn online co-op nhiều người chơi.
 
 - Trong game, người chơi sẽ điều khiển nhân vật di chuyển trong bản đồ, nhặt vũ khí, sử dụng các kỹ năng chiến đấu và tiến vào các phòng boss để vượt qua thử thách. Mỗi loại vũ khí trong Rough Life có cơ chế sử dụng riêng, trong đó chuột trái thường dùng cho đòn đánh chính, còn chuột phải dùng cho kỹ năng phụ. Một số vũ khí tiêu biểu có thể kể đến như Sword, Bow, Staff và Spear, mỗi loại đều được thiết kế với phong cách tấn công và kỹ năng khác nhau.
